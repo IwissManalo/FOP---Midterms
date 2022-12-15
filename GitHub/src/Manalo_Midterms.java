@@ -1,7 +1,6 @@
-package github;
 import java.util.*;
 
-public class IwissFOPmidterms 
+public class Manalo_Midterms
 {
 		static Scanner sc = new Scanner (System.in);
 		static String def = "\u001B[0m";  //default color
